@@ -1,8 +1,9 @@
 ## Bem-vindo(a)😁
 
-Meu nome é Aléxia Santos, sou formada em Sistemas de Informação e tenho me especializado para
-ingressar na área de TI como desenvolvedora. 
-Atualmente estou estudando com foco em backend, porém também tenho alguns projetos focados em frontend.
+Meu nome é Aléxia Santos, sou formada em Sistemas de Informação 
+e tenho me especializado para ingressar na área de TI como desenvolvedora. 
+Atualmente estou estudando com foco em backend, 
+porém também tenho alguns projetos focados em frontend.
 
  <div>
    <a href="https://github.com/alexiasantos">
@@ -15,7 +16,7 @@ Atualmente estou estudando com foco em backend, porém também tenho alguns proj
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
  
