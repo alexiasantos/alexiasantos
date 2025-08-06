@@ -1,6 +1,6 @@
 ## Bem-vindo(a)😁
 
-Meu nome é Aléxia Santos, sou formada em Sistemas de Informação, pós-graduada em Desenvolvimento Full-Stack, tenho sólida experiência com atendimento ao cliente e tenho me especializado para minha primeira oportunidade como desenvolvedora. 
+Meu nome é Aléxia Santos, sou formada em Sistemas de Informação, pós-graduada em Desenvolvimento Full-Stack, tenho sólida experiência com atendimento ao cliente e tenho me especializado para continuar atuando como desenvolvedora. 
 
  <div>
    <a href="https://github.com/alexiasantos">
